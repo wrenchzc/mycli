@@ -28,6 +28,11 @@ Internal Changes:
 * Added a regression test for sqlparse >= 0.2.3 (Thanks: [Dick Marinus]).
 * Reverted removal of temporary hack for sqlparse (Thanks: [Dick Marinus]).
 
+Features:
+---------
+
+* Add unix like redirect output (Thanks: [Dick Marinus]).
+
 1.10.0:
 =======
 
